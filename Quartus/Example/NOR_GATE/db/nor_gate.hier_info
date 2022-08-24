@@ -1,0 +1,15 @@
+|nor_gate
+a[0] => U0[0].IN0
+a[1] => U0[1].IN0
+a[2] => U0[2].IN0
+a[3] => U0[3].IN0
+b[0] => U0[0].IN1
+b[1] => U0[1].IN1
+b[2] => U0[2].IN1
+b[3] => U0[3].IN1
+y[0] << U0[0].DB_MAX_OUTPUT_PORT_TYPE
+y[1] << U0[1].DB_MAX_OUTPUT_PORT_TYPE
+y[2] << U0[2].DB_MAX_OUTPUT_PORT_TYPE
+y[3] << U0[3].DB_MAX_OUTPUT_PORT_TYPE
+
+

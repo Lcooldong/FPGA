@@ -1,0 +1,131 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vand_gate
+!s110 1661327206
+!i10b 1
+!s100 H=i3[l5>3n7lC=eo]@[iG0
+Ig;:07EeWKB2_kEnKhBUb71
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/Github/FPGA/ModelSim
+w1661324774
+8D:/Github/FPGA/Quartus/Example/AND_GATE/and_gate.v
+FD:/Github/FPGA/Quartus/Example/AND_GATE/and_gate.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1661327206.000000
+!s107 D:/Github/FPGA/Quartus/Example/AND_GATE/and_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/Quartus/Example/AND_GATE/and_gate.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vnor_for
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 Zk8Pg3iik^EHz9d6e0HSJ3
+I9>_i1GNYz?ihFDH9h47e<1
+R1
+w1661322584
+8D:/Github/FPGA/Quartus/Example/NOR_GATE/nor_for.v
+FD:/Github/FPGA/Quartus/Example/NOR_GATE/nor_for.v
+L0 1
+R2
+!s108 1661325699.000000
+!s107 D:/Github/FPGA/Quartus/Example/NOR_GATE/nor_for.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/Quartus/Example/NOR_GATE/nor_for.v|
+!i113 1
+R3
+R4
+vnor_gate
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 AOhCIEC`8<Dj`mDD9gTcc0
+IejV5SHLKb>h<FG7GE:n0M3
+R1
+w1661325281
+8D:/Github/FPGA/Quartus/Example/NOR_GATE/nor_gate.v
+FD:/Github/FPGA/Quartus/Example/NOR_GATE/nor_gate.v
+L0 1
+R2
+Z5 !s108 1661325700.000000
+!s107 D:/Github/FPGA/Quartus/Example/NOR_GATE/nor_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/Quartus/Example/NOR_GATE/nor_gate.v|
+!i113 1
+R3
+R4
+vnor_op
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 H>A>T5iecnc8Ua9FUnOT22
+Ih4O7X2=i=5aY>_PFGJc0b1
+R1
+w1661322319
+8D:/Github/FPGA/Quartus/Example/NOR_GATE/nor_op.v
+FD:/Github/FPGA/Quartus/Example/NOR_GATE/nor_op.v
+L0 1
+R2
+R5
+!s107 D:/Github/FPGA/Quartus/Example/NOR_GATE/nor_op.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/Quartus/Example/NOR_GATE/nor_op.v|
+!i113 1
+R3
+R4
+vtb_and_gate
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 7B8RoPO4hkjA01Ahm@:eV2
+IfV2gOL8mmk:=;YMX5e^G43
+R1
+w1661325061
+8D:/Github/FPGA/Quartus/Example/AND_GATE/tb_and_gate.v
+FD:/Github/FPGA/Quartus/Example/AND_GATE/tb_and_gate.v
+L0 2
+R2
+!s108 1661326806.000000
+!s107 D:/Github/FPGA/Quartus/Example/AND_GATE/tb_and_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/Quartus/Example/AND_GATE/tb_and_gate.v|
+!i113 1
+R3
+R4
+vtb_nor
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 5TTNzOJX9LmCzK>2hWk2:2
+I9][6RVS7fo]3MDNii=@k^1
+R1
+w1661325697
+8D:/Github/FPGA/Quartus/Example/NOR_GATE/tb_nor.v
+FD:/Github/FPGA/Quartus/Example/NOR_GATE/tb_nor.v
+L0 2
+R2
+R5
+!s107 D:/Github/FPGA/Quartus/Example/NOR_GATE/tb_nor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/Quartus/Example/NOR_GATE/tb_nor.v|
+!i113 1
+R3
+R4

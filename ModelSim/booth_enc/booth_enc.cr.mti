@@ -1,0 +1,8 @@
+D:/Github/FPGA/ModelSim/booth_enc/booth_enc.v {1 {vlog -work work -stats=none D:/Github/FPGA/ModelSim/booth_enc/booth_enc.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module booth_enc
+
+Top level modules:
+	booth_enc
+
+} {} {}}

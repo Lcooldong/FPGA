@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Github/FPGA/Quartus/Example/NOR_GATE/simulation/modelsim
+vnor_gate
+Z1 !s110 1661326305
+!i10b 1
+!s100 AOhCIEC`8<Dj`mDD9gTcc0
+I@?61_Y6_^cM<Gb>dBD>cW0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1661325281
+8D:/Github/FPGA/Quartus/Example/NOR_GATE/nor_gate.v
+FD:/Github/FPGA/Quartus/Example/NOR_GATE/nor_gate.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1661326305.000000
+!s107 D:/Github/FPGA/Quartus/Example/NOR_GATE/nor_gate.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Github/FPGA/Quartus/Example/NOR_GATE|D:/Github/FPGA/Quartus/Example/NOR_GATE/nor_gate.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/Github/FPGA/Quartus/Example/NOR_GATE
+Z7 tCvgOpt 0
+vtb_nor
+R1
+!i10b 1
+!s100 5TTNzOJX9LmCzK>2hWk2:2
+IB>h2>mn^mPc_<N9>bUT6P1
+R2
+R0
+w1661326188
+8D:/Github/FPGA/Quartus/Example/NOR_GATE/tb_nor.v
+FD:/Github/FPGA/Quartus/Example/NOR_GATE/tb_nor.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/Quartus/Example/NOR_GATE/tb_nor.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Github/FPGA/Quartus/Example/NOR_GATE|D:/Github/FPGA/Quartus/Example/NOR_GATE/tb_nor.v|
+!i113 1
+R5
+R6
+R7
