@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Github/FPGA/ModelSim/Boolean_func_2
+vbooth_enc
+Z0 !s110 1661411874
+!i10b 1
+!s100 W[fZ[z0>aY7TiJFd`Nco33
+Ii4WGej4O4Q80_86@d0:TX0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Github/FPGA/ModelSim/booth_enc_2
+w1661411397
+8D:/Github/FPGA/ModelSim/booth_enc_2/booth_enc.v
+FD:/Github/FPGA/ModelSim/booth_enc_2/booth_enc.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1661411874.000000
+!s107 D:/Github/FPGA/ModelSim/booth_enc_2/booth_enc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/booth_enc_2/booth_enc.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_booth_enc
+R0
+!i10b 1
+!s100 O9gUiC:3n5i3z`2Y5djE63
+IAP]]<J6PGG_NfS[HIff?71
+R1
+R2
+w1661411868
+8D:/Github/FPGA/ModelSim/booth_enc_2/tb_booth_enc.v
+FD:/Github/FPGA/ModelSim/booth_enc_2/tb_booth_enc.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/booth_enc_2/tb_booth_enc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/booth_enc_2/tb_booth_enc.v|
+!i113 1
+R5
+R6

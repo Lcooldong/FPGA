@@ -1,10 +1,10 @@
 `timescale 1ns/10ps
 module tb_comb_gate;
     reg a, b, c, d, e;
-    wire y;
+    wire f;
     integer i;
 
-    comb_gate U0(a, b, c, d, e, y);
+    comb_gate U0(a, b, c, d, e, f);
 
     initial begin
         a = 0; b = 0; c = 0; d = 0; e = 0;

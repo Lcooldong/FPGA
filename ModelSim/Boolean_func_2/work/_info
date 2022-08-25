@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Github/FPGA/ModelSim/Boolean_func
+vcomb_gate
+Z0 !s110 1661408422
+!i10b 1
+!s100 1I:D74m@GUa;LZXmQ6Pag0
+IPf`zIzFkoI^MFFeR3HHYh0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Github/FPGA/ModelSim/Boolean_func_2
+w1661408416
+8D:/Github/FPGA/ModelSim/Boolean_func_2/comb_gate.v
+FD:/Github/FPGA/ModelSim/Boolean_func_2/comb_gate.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1661408422.000000
+!s107 D:/Github/FPGA/ModelSim/Boolean_func_2/comb_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Boolean_func_2/comb_gate.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_comb_gate
+R0
+!i10b 1
+!s100 6K?S127MRh`[2Z?5mjE^22
+I^l1mYYaG:l0@;>JiKoi9B2
+R1
+R2
+w1661408161
+8D:/Github/FPGA/ModelSim/Boolean_func_2/tb_comb_gate.v
+FD:/Github/FPGA/ModelSim/Boolean_func_2/tb_comb_gate.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Boolean_func_2/tb_comb_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Boolean_func_2/tb_comb_gate.v|
+!i113 1
+R5
+R6
