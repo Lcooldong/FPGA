@@ -1,0 +1,26 @@
+`timescale 1ns/10ps
+module tb_mux81;
+    reg [2:0] sel;
+    reg [7:0] in_word;
+    wire      out_bit;
+    integer  i;
+
+    mux81_case U0 (sel, in_word, out_bit);
+
+    initial begin
+        in_word = 8'b0000_0001;
+        sel = 3'b000;
+
+        for ( i = 0; i<16; i=i+1) begin
+           #10 in_word = in_word << 1;
+               sel = i;
+        end
+    end
+
+
+        
+
+endmodule
+
+
+

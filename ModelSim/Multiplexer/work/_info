@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Github/FPGA/ModelSim/booth_enc_2
+vmux41_case
+Z0 !s110 1661415030
+!i10b 1
+!s100 _dRAG^Gj^GS[H^WVC^=PE3
+II]lT6EMniOTjMF@G2^`B_1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Github/FPGA/ModelSim/Multiplexer
+w1661413719
+8D:/Github/FPGA/ModelSim/Multiplexer/mux41_case.v
+FD:/Github/FPGA/ModelSim/Multiplexer/mux41_case.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1661415030.000000
+!s107 D:/Github/FPGA/ModelSim/Multiplexer/mux41_case.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Multiplexer/mux41_case.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vmux41_conop
+R0
+!i10b 1
+!s100 hATlHJWe7bV5YekRV>?c?2
+I_eC>:c738N06RRk>nLgSo1
+R1
+R2
+w1661413945
+8D:/Github/FPGA/ModelSim/Multiplexer/mux41_conop.v
+FD:/Github/FPGA/ModelSim/Multiplexer/mux41_conop.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Multiplexer/mux41_conop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Multiplexer/mux41_conop.v|
+!i113 1
+R5
+R6
+vmux41_if
+R0
+!i10b 1
+!s100 7Y[3Bin6aFze?T==m4:z@3
+IIA20MhU99XRbbZ_<G0e::3
+R1
+R2
+w1661413536
+8D:/Github/FPGA/ModelSim/Multiplexer/mux41_if.v
+FD:/Github/FPGA/ModelSim/Multiplexer/mux41_if.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Multiplexer/mux41_if.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Multiplexer/mux41_if.v|
+!i113 1
+R5
+R6
+vtb_mux41
+R0
+!i10b 1
+!s100 6`>mZ;:z6^nUP5En4b]F^3
+IcQ2nK?H79ibdM]>8XR[9c0
+R1
+R2
+w1661415024
+8D:/Github/FPGA/ModelSim/Multiplexer/tb_mux41.v
+FD:/Github/FPGA/ModelSim/Multiplexer/tb_mux41.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Multiplexer/tb_mux41.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Multiplexer/tb_mux41.v|
+!i113 1
+R5
+R6
