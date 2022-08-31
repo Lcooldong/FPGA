@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Github/FPGA/ModelSim/Mux81
+venc_4to2_case
+Z0 !s110 1661498170
+!i10b 1
+!s100 9R918QM78INK3V7Y7m>cP3
+IdA^SRLoLg:eb0zKVDP^YY1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Github/FPGA/ModelSim/Encoder42
+w1661497992
+8D:/Github/FPGA/ModelSim/Encoder42/enc_4to2_case.v
+FD:/Github/FPGA/ModelSim/Encoder42/enc_4to2_case.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1661498170.000000
+!s107 D:/Github/FPGA/ModelSim/Encoder42/enc_4to2_case.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Encoder42/enc_4to2_case.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+venc_4to2_for
+R0
+!i10b 1
+!s100 GE2<hU?TmI8C[cEDFZ^VQ1
+IC[76@5n>3V^z@5bzU7gQX3
+R1
+R2
+w1661497347
+8D:/Github/FPGA/ModelSim/Encoder42/enc_4to2_for.v
+FD:/Github/FPGA/ModelSim/Encoder42/enc_4to2_for.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Encoder42/enc_4to2_for.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Encoder42/enc_4to2_for.v|
+!i113 1
+R5
+R6
+venc_4to2_if
+R0
+!i10b 1
+!s100 ;jafaSBHP>OW1`dbH_VIX3
+INdE`iiRP]Tb6X8POmF9640
+R1
+R2
+w1661496421
+8D:/Github/FPGA/ModelSim/Encoder42/enc_4to2_if.v
+FD:/Github/FPGA/ModelSim/Encoder42/enc_4to2_if.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Encoder42/enc_4to2_if.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Encoder42/enc_4to2_if.v|
+!i113 1
+R5
+R6
+vtb_enc_4to2
+R0
+!i10b 1
+!s100 a3d0aN<63eVkWa4gWJUR91
+If7^6YgfY@2[iAFZOf7Fdm3
+R1
+R2
+w1661498091
+8D:/Github/FPGA/ModelSim/Encoder42/tb_enc_4to2.v
+FD:/Github/FPGA/ModelSim/Encoder42/tb_enc_4to2.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Encoder42/tb_enc_4to2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Encoder42/tb_enc_4to2.v|
+!i113 1
+R5
+R6

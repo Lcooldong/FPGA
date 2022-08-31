@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Github/FPGA/ModelSim/Encoder42
+venc_4to2_case
+Z0 !s110 1661941400
+!i10b 1
+!s100 Mi43cVI;nCFeA`AB;=azl3
+I^AVjna<UPTV6^8?Z0KG[B0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Github/FPGA/ModelSim/Active_Low_Enable_Encoder42
+w1661940329
+8D:/Github/FPGA/ModelSim/Active_Low_Enable_Encoder42/enc_4to2_if.v
+FD:/Github/FPGA/ModelSim/Active_Low_Enable_Encoder42/enc_4to2_if.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1661941400.000000
+!s107 D:/Github/FPGA/ModelSim/Active_Low_Enable_Encoder42/enc_4to2_if.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Active_Low_Enable_Encoder42/enc_4to2_if.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_enc_4to2
+R0
+!i10b 1
+!s100 ^YEeHK=M9<d_AZ`T3ZhXk3
+IX[z8ifL=^T[_NGfNCRDJM3
+R1
+R2
+w1661940427
+8D:/Github/FPGA/ModelSim/Active_Low_Enable_Encoder42/tb_enc_4to2.v
+FD:/Github/FPGA/ModelSim/Active_Low_Enable_Encoder42/tb_enc_4to2.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Active_Low_Enable_Encoder42/tb_enc_4to2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Active_Low_Enable_Encoder42/tb_enc_4to2.v|
+!i113 1
+R5
+R6
