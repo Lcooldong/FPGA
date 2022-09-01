@@ -5,8 +5,8 @@ module tb_enc_4to2;
     wire [1:0] y;
 
     // enc_4to2_case U0(a, en, y);
-    enc_4to2_if u0(a, en, y);
-    // enc_4to2_for U0(a, en, y);
+    // enc_4to2_if u0(a, en, y);
+    enc_4to2_for U0(a, en, y);
 
     always begin
         en = 1;

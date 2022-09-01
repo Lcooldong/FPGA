@@ -1,4 +1,4 @@
-module enc_4to2_case (a, en, y);
+module enc_4to2_if (a, en, y);
     input  [3:0] a;
     input        en;
     output [1:0] y;
