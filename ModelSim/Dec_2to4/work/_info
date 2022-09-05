@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Github/FPGA/ModelSim/Priority_Encoder_4to2
+vdec_2to4_case
+Z0 !s110 1662015587
+!i10b 1
+!s100 ^]D0gcHZ`ZI?bIMh:X3eK0
+IfiSjVbmDB?J9zgGHCHm;^0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Github/FPGA/ModelSim/Dec_2to4
+w1662015088
+8D:/Github/FPGA/ModelSim/Dec_2to4/dec_2to4_case.v
+FD:/Github/FPGA/ModelSim/Dec_2to4/dec_2to4_case.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1662015587.000000
+!s107 D:/Github/FPGA/ModelSim/Dec_2to4/dec_2to4_case.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Dec_2to4/dec_2to4_case.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vdec_2to4_for
+Z7 !s110 1662015588
+!i10b 1
+!s100 3Bj?Re<0]5mo3WiX_PY@13
+I48ZiE7Z<dIE2WKUedWTm63
+R1
+R2
+w1662015316
+8D:/Github/FPGA/ModelSim/Dec_2to4/dec_2to4_for.v
+FD:/Github/FPGA/ModelSim/Dec_2to4/dec_2to4_for.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Dec_2to4/dec_2to4_for.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Dec_2to4/dec_2to4_for.v|
+!i113 1
+R5
+R6
+vdec_2to4_if
+R7
+!i10b 1
+!s100 E`m8]SOV0FDj7CORFYXVz0
+I22R[?DO1fWl`Kc`>RJK?50
+R1
+R2
+w1662014978
+8D:/Github/FPGA/ModelSim/Dec_2to4/dec_2to4_if.v
+FD:/Github/FPGA/ModelSim/Dec_2to4/dec_2to4_if.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1662015588.000000
+!s107 D:/Github/FPGA/ModelSim/Dec_2to4/dec_2to4_if.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Dec_2to4/dec_2to4_if.v|
+!i113 1
+R5
+R6
+vtb_dec_2to4
+R0
+!i10b 1
+!s100 dWGCni5lkKF1o92g1kg[]2
+IOk6N3;SSN:B?7J4EZ`@Zj0
+R1
+R2
+w1662015583
+8D:/Github/FPGA/ModelSim/Dec_2to4/tb_dec_2to4.v
+FD:/Github/FPGA/ModelSim/Dec_2to4/tb_dec_2to4.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Dec_2to4/tb_dec_2to4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Dec_2to4/tb_dec_2to4.v|
+!i113 1
+R5
+R6

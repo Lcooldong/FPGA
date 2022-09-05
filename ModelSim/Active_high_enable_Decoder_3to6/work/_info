@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Github/FPGA/ModelSim/Dec_2to4
+vdec_3to6_case
+Z0 !s110 1662033612
+!i10b 1
+!s100 DA>75`6d]S7n>Z<Uo31C02
+I]@LKTXH_AeG?M=mBAKOeg2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Github/FPGA/ModelSim/Active_high_enable_Decoder_3to6
+w1662033363
+8D:/Github/FPGA/ModelSim/Active_high_enable_Decoder_3to6/dec_3to6_case.v
+FD:/Github/FPGA/ModelSim/Active_high_enable_Decoder_3to6/dec_3to6_case.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1662033612.000000
+!s107 D:/Github/FPGA/ModelSim/Active_high_enable_Decoder_3to6/dec_3to6_case.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Active_high_enable_Decoder_3to6/dec_3to6_case.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vdec_3to6_if
+R0
+!i10b 1
+!s100 PERiTb>YHl3IRT?dCXZ6a2
+IlLc>c7PP?cNV?UjAM:<aS0
+R1
+R2
+w1662033212
+8D:/Github/FPGA/ModelSim/Active_high_enable_Decoder_3to6/dec_3to6_if.v
+FD:/Github/FPGA/ModelSim/Active_high_enable_Decoder_3to6/dec_3to6_if.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Active_high_enable_Decoder_3to6/dec_3to6_if.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Active_high_enable_Decoder_3to6/dec_3to6_if.v|
+!i113 1
+R5
+R6
+vtb_dec_3to6
+R0
+!i10b 1
+!s100 MkL5eJ9<6A27d8:diPIiD2
+Ifdo7^V=M6kIfl:Oc@YfGh3
+R1
+R2
+w1662033606
+8D:/Github/FPGA/ModelSim/Active_high_enable_Decoder_3to6/tb_dec_3to6.v
+FD:/Github/FPGA/ModelSim/Active_high_enable_Decoder_3to6/tb_dec_3to6.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Active_high_enable_Decoder_3to6/tb_dec_3to6.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Active_high_enable_Decoder_3to6/tb_dec_3to6.v|
+!i113 1
+R5
+R6

@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vcomp_assign
+Z0 !s110 1662090545
+!i10b 1
+!s100 L<INLeRR2=[kR`=g0725W2
+I9`Q_=>CnbE9PR7TbZ3LO@0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Github/FPGA/ModelSim/Comparator
+w1662089634
+8D:/Github/FPGA/ModelSim/Comparator/comp_assign.v
+FD:/Github/FPGA/ModelSim/Comparator/comp_assign.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1662090545.000000
+!s107 D:/Github/FPGA/ModelSim/Comparator/comp_assign.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Comparator/comp_assign.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vcomp_for
+R0
+!i10b 1
+!s100 IQCk4GP@BRGl67g^?;XWh0
+IU^WhgNW:R>d=6mVXQK;V61
+R1
+R2
+w1662090543
+8D:/Github/FPGA/ModelSim/Comparator/comp_for.v
+FD:/Github/FPGA/ModelSim/Comparator/comp_for.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Comparator/comp_for.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Comparator/comp_for.v|
+!i113 1
+R5
+R6
+vcomp_if
+R0
+!i10b 1
+!s100 0FdU8KIS<WC7KVhfPGF;h0
+I:]F15m=03TE^kmQ9DcWd33
+R1
+R2
+w1662089801
+8D:/Github/FPGA/ModelSim/Comparator/comp_if.v
+FD:/Github/FPGA/ModelSim/Comparator/comp_if.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Comparator/comp_if.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Comparator/comp_if.v|
+!i113 1
+R5
+R6
+vtb_comp
+R0
+!i10b 1
+!s100 _MND]0[7TPRoHUJ32T?gm3
+IJm4kT]zh8[_LSbGV^Efd@3
+R1
+R2
+w1662090464
+8D:/Github/FPGA/ModelSim/Comparator/tb_comp.v
+FD:/Github/FPGA/ModelSim/Comparator/tb_comp.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Comparator/tb_comp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Comparator/tb_comp.v|
+!i113 1
+R5
+R6

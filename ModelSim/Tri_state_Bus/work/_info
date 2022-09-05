@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Github/FPGA/ModelSim/Comparator
+vtb_tristate
+Z0 !s110 1662102885
+!i10b 1
+!s100 9m<j]kQRF1ZmOPdM[h[UE1
+IB@f0Pgf<]i8`?iHlA7eQV3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Github/FPGA/ModelSim/Tri_state_Bus
+w1662102883
+8D:/Github/FPGA/ModelSim/Tri_state_Bus/tb_tristate.v
+FD:/Github/FPGA/ModelSim/Tri_state_Bus/tb_tristate.v
+L0 4
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1662102885.000000
+!s107 D:/Github/FPGA/ModelSim/Tri_state_Bus/tb_tristate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Tri_state_Bus/tb_tristate.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtristate_conop
+R0
+!i10b 1
+!s100 o62LdJhXe<aA7@>FAakGM3
+I^lOh2TGAQFRZef=lBMgPQ3
+R1
+R2
+w1662102353
+8D:/Github/FPGA/ModelSim/Tri_state_Bus/tristate_conop.v
+FD:/Github/FPGA/ModelSim/Tri_state_Bus/tristate_conop.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Tri_state_Bus/tristate_conop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Tri_state_Bus/tristate_conop.v|
+!i113 1
+R5
+R6
+vtristate_gate
+R0
+!i10b 1
+!s100 ?iI[U2^MND4H4bc`Nh6aM1
+I0DBRhiA0G;=e_4dSYj^Ne0
+R1
+R2
+w1662102427
+8D:/Github/FPGA/ModelSim/Tri_state_Bus/tristate_gate.v
+FD:/Github/FPGA/ModelSim/Tri_state_Bus/tristate_gate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Tri_state_Bus/tristate_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Tri_state_Bus/tristate_gate.v|
+!i113 1
+R5
+R6

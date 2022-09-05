@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Github/FPGA/ModelSim/Case_If_Latch
+vdlatch
+Z0 !s110 1662294800
+!i10b 1
+!s100 PgDo:LklJ2MDXR2Z@5@151
+ISQAVfWTC1THSL]3];]:>20
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Github/FPGA/ModelSim/D_Latch
+w1662294585
+8D:/Github/FPGA/ModelSim/D_Latch/dlatch.v
+FD:/Github/FPGA/ModelSim/D_Latch/dlatch.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1662294800.000000
+!s107 D:/Github/FPGA/ModelSim/D_Latch/dlatch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/D_Latch/dlatch.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_dlatch
+R0
+!i10b 1
+!s100 OoDQk85AG2fHZ2^gn?18E1
+IEcJDij;GeMNne5B<>>oZN1
+R1
+R2
+w1662294792
+8D:/Github/FPGA/ModelSim/D_Latch/tb_dlatch.v
+FD:/Github/FPGA/ModelSim/D_Latch/tb_dlatch.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/D_Latch/tb_dlatch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/D_Latch/tb_dlatch.v|
+!i113 1
+R5
+R6

@@ -1,0 +1,15 @@
+D:/Github/FPGA/ModelSim/D_Latch/tb_dlatch.v {1 {vlog -work work -stats=none D:/Github/FPGA/ModelSim/D_Latch/tb_dlatch.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_dlatch
+
+Top level modules:
+	tb_dlatch
+
+} {} {}} D:/Github/FPGA/ModelSim/D_Latch/dlatch.v {1 {vlog -work work -stats=none D:/Github/FPGA/ModelSim/D_Latch/dlatch.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dlatch
+
+Top level modules:
+	dlatch
+
+} {} {}}

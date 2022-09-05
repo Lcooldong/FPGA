@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Github/FPGA/ModelSim/Active_Low_Enable_Encoder42
+vpri_enc_4to2_case
+Z0 !s110 1662011939
+!i10b 1
+!s100 HAO4d;Y1c`mln>;3ZgJ_G2
+IeVJY_F=Z@56AML[ITnfQ20
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Github/FPGA/ModelSim/Priority_Encoder_4to2
+w1662011518
+8D:/Github/FPGA/ModelSim/Priority_Encoder_4to2/pri_enc_4to2_case.v
+FD:/Github/FPGA/ModelSim/Priority_Encoder_4to2/pri_enc_4to2_case.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1662011939.000000
+!s107 D:/Github/FPGA/ModelSim/Priority_Encoder_4to2/pri_enc_4to2_case.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Priority_Encoder_4to2/pri_enc_4to2_case.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vpri_enc_4to2_for
+R0
+!i10b 1
+!s100 C5TcjQIm`MG4z:`1SnA`N0
+I;1WHOaM?L?AUDa4n02b^V1
+R1
+R2
+w1662011834
+8D:/Github/FPGA/ModelSim/Priority_Encoder_4to2/pri_enc_4to2_for.v
+FD:/Github/FPGA/ModelSim/Priority_Encoder_4to2/pri_enc_4to2_for.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Priority_Encoder_4to2/pri_enc_4to2_for.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Priority_Encoder_4to2/pri_enc_4to2_for.v|
+!i113 1
+R5
+R6
+vpri_enc_4to2_if
+R0
+!i10b 1
+!s100 3]BD:Am[n]i:acD4dOg4O1
+IgL3QGO2nlUE9SW1VLb97=3
+R1
+R2
+w1662011506
+8D:/Github/FPGA/ModelSim/Priority_Encoder_4to2/pri_enc_4to2_if.v
+FD:/Github/FPGA/ModelSim/Priority_Encoder_4to2/pri_enc_4to2_if.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Priority_Encoder_4to2/pri_enc_4to2_if.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Priority_Encoder_4to2/pri_enc_4to2_if.v|
+!i113 1
+R5
+R6
+vtb_pri_enc_4to2
+R0
+!i10b 1
+!s100 7=@e1]5MA8[KnzT7b7M:`1
+I25bH`cLi?AJ=amD>^CTSc0
+R1
+R2
+w1662011931
+8D:/Github/FPGA/ModelSim/Priority_Encoder_4to2/tb_pri_enc_4to2.v
+FD:/Github/FPGA/ModelSim/Priority_Encoder_4to2/tb_pri_enc_4to2.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Priority_Encoder_4to2/tb_pri_enc_4to2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Priority_Encoder_4to2/tb_pri_enc_4to2.v|
+!i113 1
+R5
+R6
