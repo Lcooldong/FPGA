@@ -1,0 +1,22 @@
+D:/Github/FPGA/ModelSim/FBOSC/fbosc_nonblk.v {1 {vlog -work work -stats=none D:/Github/FPGA/ModelSim/FBOSC/fbosc_nonblk.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fbosc_nonblk
+
+Top level modules:
+	fbosc_nonblk
+
+} {} {}} D:/Github/FPGA/ModelSim/FBOSC/fbosc_blk.v {1 {vlog -work work -stats=none D:/Github/FPGA/ModelSim/FBOSC/fbosc_blk.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fbosc_blk
+
+Top level modules:
+	fbosc_blk
+
+} {} {}} D:/Github/FPGA/ModelSim/FBOSC/tb_fbosc.v {1 {vlog -work work -stats=none D:/Github/FPGA/ModelSim/FBOSC/tb_fbosc.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_fbosc
+
+Top level modules:
+	tb_fbosc
+
+} {} {}}

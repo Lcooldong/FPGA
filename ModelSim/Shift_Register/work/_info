@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Github/FPGA/ModelSim/FBOSC
+vshift_reg_nblk
+Z0 !s110 1662433434
+!i10b 1
+!s100 ?hTC^O2BE^_>A<dBUVYfo3
+IY=5_H9M^nB?_ANKR@fIZ_1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Github/FPGA/ModelSim/Shift_Register
+w1662426880
+8D:/Github/FPGA/ModelSim/Shift_Register/shift_reg_nblk.v
+FD:/Github/FPGA/ModelSim/Shift_Register/shift_reg_nblk.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1662433434.000000
+!s107 D:/Github/FPGA/ModelSim/Shift_Register/shift_reg_nblk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Shift_Register/shift_reg_nblk.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_shift_reg_nblk
+R0
+!i10b 1
+!s100 5HfPZ3hM5d@WS=^OOL6783
+ImVgl[1d[H0MH59W`lZEAZ0
+R1
+R2
+w1662433422
+8D:/Github/FPGA/ModelSim/Shift_Register/tb_shift_reg_nblk.v
+FD:/Github/FPGA/ModelSim/Shift_Register/tb_shift_reg_nblk.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/Shift_Register/tb_shift_reg_nblk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/Shift_Register/tb_shift_reg_nblk.v|
+!i113 1
+R5
+R6

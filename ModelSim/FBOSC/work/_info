@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Github/FPGA/ModelSim/Blocking_NonBlocking
+vfbosc_blk
+Z0 !s110 1662377057
+!i10b 1
+!s100 Eo1SaM^6Yi=]YYUARlWG^0
+IJ]R0[CAClSZ?HfIS[JR7f3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Github/FPGA/ModelSim/FBOSC
+w1662376777
+8D:/Github/FPGA/ModelSim/FBOSC/fbosc_blk.v
+FD:/Github/FPGA/ModelSim/FBOSC/fbosc_blk.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1662377057.000000
+!s107 D:/Github/FPGA/ModelSim/FBOSC/fbosc_blk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/FBOSC/fbosc_blk.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vfbosc_nonblk
+R0
+!i10b 1
+!s100 I_M>l@gZLlbMBU11Z3WeF2
+I_=J`1c@ZU8n:6hWDLO?:d3
+R1
+R2
+w1662376739
+8D:/Github/FPGA/ModelSim/FBOSC/fbosc_nonblk.v
+FD:/Github/FPGA/ModelSim/FBOSC/fbosc_nonblk.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/FBOSC/fbosc_nonblk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/FBOSC/fbosc_nonblk.v|
+!i113 1
+R5
+R6
+vtb_fbosc
+R0
+!i10b 1
+!s100 _aJOZ9bb`_W?MM8IJja_o0
+I>P2dC;L>BOBKDgcBI0`1l0
+R1
+R2
+w1662377027
+8D:/Github/FPGA/ModelSim/FBOSC/tb_fbosc.v
+FD:/Github/FPGA/ModelSim/FBOSC/tb_fbosc.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/FBOSC/tb_fbosc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/FBOSC/tb_fbosc.v|
+!i113 1
+R5
+R6
