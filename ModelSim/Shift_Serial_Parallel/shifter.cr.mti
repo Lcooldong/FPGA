@@ -1,0 +1,15 @@
+D:/Github/FPGA/ModelSim/Shift_Serial_Parallel/shifter.v {1 {vlog -work work -stats=none D:/Github/FPGA/ModelSim/Shift_Serial_Parallel/shifter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} D:/Github/FPGA/ModelSim/Shift_Serial_Parallel/tb_shifter.v {1 {vlog -work work -stats=none D:/Github/FPGA/ModelSim/Shift_Serial_Parallel/tb_shifter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_shifter
+
+Top level modules:
+	tb_shifter
+
+} {} {}}

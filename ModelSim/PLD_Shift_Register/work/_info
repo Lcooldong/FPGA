@@ -8,3 +8,45 @@ z2
 !i10f 100
 cModel Technology
 dD:/Github/FPGA/ModelSim/Shift_Register
+vpld_shift_reg
+Z0 !s110 1662453043
+!i10b 1
+!s100 >W[fnY1FR<YGI^bA16jgk3
+I=SEhz`LoNTAzLd7o=WBG=0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Github/FPGA/ModelSim/PLD_Shift_Register
+w1662452588
+8D:/Github/FPGA/ModelSim/PLD_Shift_Register/pld_shift_reg.v
+FD:/Github/FPGA/ModelSim/PLD_Shift_Register/pld_shift_reg.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1662453043.000000
+!s107 D:/Github/FPGA/ModelSim/PLD_Shift_Register/pld_shift_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/PLD_Shift_Register/pld_shift_reg.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_pld_shift_reg
+R0
+!i10b 1
+!s100 6Bi`Uh16b<T7a_bim[eZ61
+IVFWVNW7lNdgI9=k^f0F[Y1
+R1
+R2
+w1662453039
+8D:/Github/FPGA/ModelSim/PLD_Shift_Register/tb_pld_shift_reg.v
+FD:/Github/FPGA/ModelSim/PLD_Shift_Register/tb_pld_shift_reg.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Github/FPGA/ModelSim/PLD_Shift_Register/tb_pld_shift_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Github/FPGA/ModelSim/PLD_Shift_Register/tb_pld_shift_reg.v|
+!i113 1
+R5
+R6
