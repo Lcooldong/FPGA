@@ -105,5 +105,29 @@ assign set_pos = set_pos_ALTERA_SYTHESIZED;
 
 defparam b2v_inst.POSITION_HOUR_LOCAL = POSITION_HOUR;
 defparam b2v_inst.POSITION_MINUTE_LOCAL = POSTION_MINUTE;
-defparam b2
+defparam b2v_inst.POSITION_SECOND_LOCAL = POSITION_SECOND;
+
+defparam b2v_inst.MODE_NORNAL_LOCAL = MODE_NORMAL;
+defparam b2v_inst.MODE_SETTING_LOCAL = MODE_SETTING;
+
+defparam b2v_inst1.POSITION_HOUR_LOCAL = POSITION_HOUR;
+defparam b2v_inst1.POSITION_MINUTE_LOCAL = POSITION_MINUTE;
+defparam b2v_inst1.POSITION_SECOND_LOCAL = POSITION_SECOND;
+defparam b2v_inst1.POSITION_NONE_LOCAL = POSITION_NONE;
+
+defparam b2v_inst1.MODE_NORMAL_LOCAL = MODE_NORMAL;
+defparam b2v_inst1.MODE_SETTING_LOCAL = MODE_SETTING;
+
+defparam b2v_inst2.s0 = 2'b00;
+defparam b2v_inst2.s1 = 2'b01;
+defparam b2v_inst2.s2 = 2'b10;
+
+defparam b2v_inst2.POSITION_HOUR_LOCAL = POSTION_HOUR;
+defparam b2v_inst2.POSITION_MINUTE_LOCAL = POSITION_MINUTE;
+defparam b2v_inst2.POSITION_SECOND_LOCAL = POSITION_SECOND;
+
+defparam b2v_inst2.MODE_NORMAL_LOCAL = MODE_NORMAL;
+defparam b2v_inst2.MODE_SETTING_LOCAL = MODE_SETTING;
+
+endmodule
 

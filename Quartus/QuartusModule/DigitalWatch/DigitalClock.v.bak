@@ -1,0 +1,3 @@
+`timescale 1ns / 1ps
+module DigitalClock(reset, clk, clk1hz, clk2hz, blink, mode, set_pos, sw2, 
+							sec_out, min_out, hour_out);

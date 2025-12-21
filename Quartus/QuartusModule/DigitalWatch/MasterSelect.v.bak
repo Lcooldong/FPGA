@@ -1,0 +1,14 @@
+`timescale 1ns / 1ps
+module MasterSelect(reset, clk, sw0, sw1, 
+			clk1hz_out, clk2hz_out, mode_out, set_pos_out, clk100hz_out);
+	
+		parameter POSITION_HOUR_LOCAL=3'b100, POSITION_MINUTE_LOCAL=3'b010;
+		parameter POSITION_SECOND_LOCAL=3'b001, POSITION_NONE_LOCAL=3'b000;
+		parameter MODE_NORMAL_LOCAL=1'b0, MODE_SETTING_LOCAL=1'b1;
+		
+		input			reset, clk;
+		input 		sw0, sw1;
+		output		mode_out;
+		output [2:0]	set_pos_out;
+		
+							
