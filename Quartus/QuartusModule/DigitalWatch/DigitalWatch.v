@@ -23,12 +23,12 @@ input wire clk;
 input wire sw0;
 input wire sw1;
 input wire sw2;
-output wire hourFNDsel2;
-output wire hourFNDsel1;
-output wire minFNDsel2;
-output wire minFNDsel1;
-output wire secFNDsel2;
-output wire secFNDsel1;
+output wire hourFNDSel2;
+output wire hourFNDSel1;
+output wire minFNDSel2;
+output wire minFNDSel1;
+output wire secFNDSel2;
+output wire secFNDSel1;
 
 output wire [6:0] hourFND;
 output wire [6:0] minFND;
@@ -65,13 +65,12 @@ MasterSelect b2v_inst(
 DigitalClock b2v_inst1(
 	.reset(reset),
 	.clk(clk),
-	.clk1hz_out(clk1hz),
-	.clk2hz_out(clk2hz),
+	.clk1hz(clk1hz),
+	.clk2hz(clk2hz),
 	.blink(blink),
 	.sw2(sw2),
-	.clk100hz_out(clk100hz),
-	.mode_out(mode_ALTERA_SYNTHESIZED),
-	.set_pos_out(set_pos_ALTERA_SYTHESIZED),
+	.mode(mode_ALTERA_SYNTHESIZED),
+	.set_pos(set_pos_ALTERA_SYTHESIZED),
 	.hour_out(hour_out),
 	.min_out(min_out),
 	.sec_out(sec_out));
@@ -80,20 +79,20 @@ DigitalClock b2v_inst1(
 FNDDisplay	b2v_inst2(
 	.reset(reset),
 	.clk(clk),
-	.clk2hz_out(clk2hz),
-	.clk100hz_out(clk100hz),
+	.clk2hz(clk2hz),
+	.clk100hz(clk100hz),
 	.sw2(sw2),
 	.dc_hour(hour_out),
 	.dc_min(min_out),
 	.dc_sec(sec_out),
 	.mode(mode_ALTERA_SYNTHESIZED),
 	.set_pos(set_pos_ALTERA_SYTHESIZED),
-	.hourFNDsel2(hourFNDsel2),
-	.hourFNDsel1(hourFNDsel1),
-	.minFNDsel2(minFNDsel2),
-	.minFNDsel1(minFNDsel1),
-	.secFNDsel2(secFNDsel2),
-	.secFNDsel1(secFNDsel1),
+	.hourFNDSel2(hourFNDSel2),
+	.hourFNDSel1(hourFNDSel1),
+	.minFNDSel2(minFNDSel2),
+	.minFNDSel1(minFNDSel1),
+	.secFNDSel2(secFNDSel2),
+	.secFNDSel1(secFNDSel1),
 	.blink_out(blink),
 	.hourFND(hourFND),
 	.minFND(minFND),
@@ -104,10 +103,10 @@ assign mode = mode_ALTERA_SYNTHESIZED;
 assign set_pos = set_pos_ALTERA_SYTHESIZED;
 
 defparam b2v_inst.POSITION_HOUR_LOCAL = POSITION_HOUR;
-defparam b2v_inst.POSITION_MINUTE_LOCAL = POSTION_MINUTE;
+defparam b2v_inst.POSITION_MINUTE_LOCAL = POSITION_MINUTE;
 defparam b2v_inst.POSITION_SECOND_LOCAL = POSITION_SECOND;
 
-defparam b2v_inst.MODE_NORNAL_LOCAL = MODE_NORMAL;
+defparam b2v_inst.MODE_NORMAL_LOCAL = MODE_NORMAL;
 defparam b2v_inst.MODE_SETTING_LOCAL = MODE_SETTING;
 
 defparam b2v_inst1.POSITION_HOUR_LOCAL = POSITION_HOUR;
@@ -122,7 +121,7 @@ defparam b2v_inst2.s0 = 2'b00;
 defparam b2v_inst2.s1 = 2'b01;
 defparam b2v_inst2.s2 = 2'b10;
 
-defparam b2v_inst2.POSITION_HOUR_LOCAL = POSTION_HOUR;
+defparam b2v_inst2.POSITION_HOUR_LOCAL = POSITION_HOUR;
 defparam b2v_inst2.POSITION_MINUTE_LOCAL = POSITION_MINUTE;
 defparam b2v_inst2.POSITION_SECOND_LOCAL = POSITION_SECOND;
 

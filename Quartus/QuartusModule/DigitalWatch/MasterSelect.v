@@ -32,7 +32,7 @@ module MasterSelect(reset, clk, sw0, sw1,
 			if (~reset)
 				set_pos <= POSITION_HOUR_LOCAL;
 			else
-				if (mode == MODE_SETTINNG_LOCAL)
+				if (mode == MODE_SETTING_LOCAL)
 					case(set_pos)
 						POSITION_HOUR_LOCAL   : set_pos <= POSITION_MINUTE_LOCAL;
 						POSITION_MINUTE_LOCAL : set_pos <= POSITION_SECOND_LOCAL;
@@ -41,7 +41,7 @@ module MasterSelect(reset, clk, sw0, sw1,
 					endcase
 				else
 					set_pos <= POSITION_NONE_LOCAL;
-		
+		end
 		
 		// LED output select change
 		always @ (mode or set_pos) begin

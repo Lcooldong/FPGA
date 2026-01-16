@@ -58,8 +58,8 @@ module DigitalClock(reset, clk, clk1hz, clk2hz, blink, mode, set_pos, sw2,
 			min <= 6'd0;
 		else
 			case (mode)
-				MODE_NORNAL_LOCAL :
-					if (sec >= 6'59) begin
+				MODE_NORMAL_LOCAL :
+					if (sec >= 6'd59) begin
 						if (min >= 6'd59)
 							min <= 6'd0;
 						else

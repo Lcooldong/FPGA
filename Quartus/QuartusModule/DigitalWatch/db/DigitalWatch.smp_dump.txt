@@ -1,0 +1,13 @@
+
+State Machine - |DigitalWatch|FNDDisplay:b2v_inst2|state
+Name state~4 state~3 
+state.s0 0 0 
+state.s1 0 1 
+state.s2 1 0 
+
+State Machine - |DigitalWatch|MasterSelect:b2v_inst|set_pos
+Name set_pos~7 set_pos~6 set_pos~5 
+set_pos.POSITION_HOUR_LOCAL 0 0 0 
+set_pos.POSITION_SECOND_LOCAL 1 0 1 
+set_pos.POSITION_MINUTE_LOCAL 1 1 0 
+set_pos.POSITION_NONE_LOCAL 1 0 0 

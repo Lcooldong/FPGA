@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun Dec 21 17:36:29 2025
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : DigitalWatch
+Top-level Entity Name : DigitalWatch
+Family : Cyclone IV E
+Total logic elements : 419
+    Total combinational functions : 419
+    Dedicated logic registers : 165
+Total registers : 165
+Total pins : 36
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

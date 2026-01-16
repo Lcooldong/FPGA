@@ -55,7 +55,7 @@ module FNDDisplay(reset, clk, clk2hz, clk100hz, sw2, mode, set_pos, dc_sec, dc_m
 							blink <= 1'b1;
 						end
 					s1:
-						if (sw2 == 1'b1)
+						if (sw2 == 1'b1) begin
 							state <= s2;
 							blink <= 1'b1;
 						end else begin
@@ -63,7 +63,7 @@ module FNDDisplay(reset, clk, clk2hz, clk100hz, sw2, mode, set_pos, dc_sec, dc_m
 							blink <= 1'b1;
 						end
 					s2:
-						if (sw2 == 1'b1)
+						if (sw2 == 1'b1) begin
 							state <= s2;
 							blink <= 1'b0;
 						end else begin
@@ -99,7 +99,7 @@ module FNDDisplay(reset, clk, clk2hz, clk100hz, sw2, mode, set_pos, dc_sec, dc_m
 							disp_min  <= 1'b1;
 							disp_sec  <= ~disp_sec;
 						end
-						default:
+						default :;
 					endcase
 				end else begin
 					disp_hour <= 1'b1;
@@ -116,12 +116,12 @@ module FNDDisplay(reset, clk, clk2hz, clk100hz, sw2, mode, set_pos, dc_sec, dc_m
 		
 		// always for display digit
 		always @ (dc_hour, dc_min, dc_sec) begin
-			hour10 <= ((dc_hour%24)/10);
-			hour0  <= (dc_hour%24) %10;
-			min10  <= dc_min / 10;
-			min0   <= dc_min % 10;
-			sec10	 <= dc_sec / 10;
-			sec0	 <= dc_sec % 10;
+			hour10 <= ((dc_hour % 24) / 10);
+			hour0  <= (dc_hour  % 24) % 10;
+			min10  <= dc_min          / 10;
+			min0   <= dc_min          % 10;
+			sec10	 <= dc_sec          / 10;
+			sec0	 <= dc_sec          % 10;
 		end
 		
 		
